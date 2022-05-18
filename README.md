@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### こんにちは～ 👋
+### こんにちは～ 👋 / Hello~ 👋
 
-#### 使える言語
+#### 使える言語 / Can use Language
 > mcfunction: できる
 
 > json: できる
