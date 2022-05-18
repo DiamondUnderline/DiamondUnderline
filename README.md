@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **DiamondUnderline/DiamondUnderline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### こんにちは～ 👋
+
+#### 使える言語
+> mcfunction: できる
+
+> json: できる
+
+> md: 基本程度できる
+
+> html: ミニマムできる
+
+> Java: ミニマムできる
